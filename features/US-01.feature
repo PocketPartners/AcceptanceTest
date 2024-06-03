@@ -6,6 +6,7 @@ Feature: Landing page atractiva y profesional
     Entonces debo ver un diseño limpio y moderno, con colores atractivos y un encabezado claro.
 
     Scenary: Landing Page Seccion Home
-    Dado que: soy un usuario habitual de la aplicación PocketPartners y deseo acceder a mi información financiera de manera rápida y conveniente
+    Dado que: soy un usuario habitual de la aplicación PocketPartners y deseo acceder a mi información financiera de 
+    manera rápida y conveniente
     Cuando: ingreso a la sección "Home" desde el Landing Page
-    Entonces: se me muestra una imagen resumen y un Hero atractivo, ademas de una barra de navegación.
+    Entonces: se me muestra una imagen resumen y un Hero atractivo, además de una barra de navegación.
