@@ -1,4 +1,4 @@
-Feature: Landing page atractiva y profesional
+Feature: Landing Page Seccion Servicios
     
     Scenario: Descubriendo los Servicios en el Landing Page 
     Dado que soy un potencial usuario interesado en las funcionalidades del aplicativo 
