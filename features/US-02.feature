@@ -1,7 +1,6 @@
 Feature: Landing page atractiva y profesional
-
-    Scenary: Landing Page Seccion - Servicios
-    Escenario: Descubriendo los Servicios en el Landing Page 
+    
+    Scenario: Descubriendo los Servicios en el Landing Page 
     Dado que soy un potencial usuario interesado en las funcionalidades del aplicativo 
     PocketPartners.
     Cuando ingreso al Landing Page de la aplicación.
