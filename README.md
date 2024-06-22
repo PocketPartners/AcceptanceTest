@@ -1,2 +1,2 @@
-# AcceptanceTest
+# AceptanceTest
 PocketPartners - Aceptance Tests
