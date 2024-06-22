@@ -1,2 +1,2 @@
-# AceptanceTest
-PocketPartners - Aceptance Tests
+# AcceptanceTest
+PocketPartners - Acceptance Tests
